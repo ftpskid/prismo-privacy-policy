@@ -1,4 +1,4 @@
-# **Waguri Bot - Privacy Policy**  
+# **Prismo - Privacy Policy**  
 
 **Last Updated:** March 2025  
 
@@ -7,7 +7,7 @@ Your privacy is important to us. This Privacy Policy explains what data Waguri c
 ---
 
 ## **1. Data We Collect**  
-Waguri collects and stores minimal data necessary for its functionality, including:  
+Prismo collects and stores minimal data necessary for its functionality, including:  
 
 - **Guild Name** (Server name where the bot is added)  
 - **Guild ID** (Unique identifier for the server)  
@@ -38,7 +38,7 @@ Your data **will not** be shared, sold, or misused for any commercial purposes.
 ---
 
 ## **4. Third-Party Services**  
-Waguri may use third-party services for additional features (e.g., music playback).  
+Prismo may use third-party services for additional features (e.g., music playback).  
 However, we do not share your data with any third-party service.  
 
 ---
